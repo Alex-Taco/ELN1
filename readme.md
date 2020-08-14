@@ -38,7 +38,7 @@ Typora提供Windows，Linux，Mac三个平台的安装，根据平台选择下�
 
    <img src="assets/readme/image-20200808132455831.png" alt="image-20200808132455831" style="zoom:60%;" />
 
-4. 打开上下标(Markdown editor)：上下标在化学里经常使用（e.g., CaCO~3~），启动该功能；
+4. 打开上下标(Markdown editor)：因为Markdown不直接支持上下标，这是Typora自带的一个功能，上下标在化学里经常使用（e.g., CaCO~3~），启动该功能；
 
    <img src="assets/readme/image-20200808132932111.png" alt="image-20200808132932111" style="zoom:60%;" />
 
@@ -65,9 +65,9 @@ VS Code的功能主要是由设置与插件提供的，插件在Extension处安�
 
 ### 创建一个实验记录本的Repository (Repo)
 
-目前先在Github上作为测试，到正式运行时，实验室会自行运行保密的Git服务器，保证实验数据不被公开。
+目前先在Gitee上作为测试（由于Github在国内连接太慢），到正式运行时，实验室会自行运行保密的Git服务器，保证实验数据不被公开。
 
-- 在Github上注册，并创建一个新的repo，repo名字只能是英文；
+- 在Gitee上注册，并创建一个新的repo，repo名字只能是英文；
 - 创建之后，将该repo Clone到本地的文件夹中，点“Code”，“Clone with HTTPS”
 - 进入VS Code，进入Source Control版块，然后点击Clone，粘贴上述地址，选择保存的文件夹即可。
 
