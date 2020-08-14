@@ -75,9 +75,9 @@ VS Code的功能主要是由设置与插件提供的，插件在Extension处安�
 
 利用Typora打开上述文件夹，在里面创建新的笔记。
 
-Typora使用相对比较直观，具体细节教程请见Help文件，常用功能如下：
+参考该教程：https://www.jianshu.com/p/a6a6a22e9393
 
-待补充 ... ...
+Typora使用相对比较直观，具体细节教程请见Help文件，Help &rarr; Markdown Reference
 
 ### VS Code的使用
 
